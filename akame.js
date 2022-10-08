@@ -3132,7 +3132,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
                 })
             }
             break
-            case 'play':
+             case 'play':
             case 'ytplay': {
                 if (!text) throw `Contoh : ${prefix + command} Story Wa Anime`
                 m.reply(mess.wait)
