@@ -13,13 +13,22 @@ const chalk = require('chalk')
 //—————「 Website Apikey 」—————//
 global.APIs = {
     //gausah di apa² in!
-    zenz: 'https://zenzapis.xyz',
+   nrtm: 'https://nurutomo.herokuapp.com',
+  xteam: 'https://api.xteam.xyz',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  lol: 'https://api.lolhuman.xyz',
+  ana: 'https://anabotofc.herokuapp.com/',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
+  violetics : 'https://violetics.pw', 
+  males : 'https://malesin.xyz'
 }
-
-//—————「 Website Apikey 」—————//
-global.APIKeys = {
-    //gausah di apa² in, Udah Free kok :)
-    'https://zenzapis.xyz': '207bdf6f44a5',
+global.APIKeys = { // APIKey Here
+  // 'https://website': 'apikey'
+  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://anabotofc.herokuapp.com/': 'AnaBot',
+  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://violetics.pw': 'beta'
 }
 
 //—————「 Set Nama Bot & Own 」—————//
